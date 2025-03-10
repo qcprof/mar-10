@@ -1,4 +1,3 @@
-let greeting = 'hello'
-personalizedGreeting = greeting + ' Acc 343'
 
-document.getElementById("display").innerHTML = personalizedGreeting;
+
+document.getElementById("display").innerHTML = '0';
