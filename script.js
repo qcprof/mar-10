@@ -1,4 +1,4 @@
 let greeting = 'hello'
 personalizedGreeting = greeting + ' Acc 343'
 
-document.getElementById("output").innerHTML = personalizedGreeting;
+document.getElementById("display").innerHTML = personalizedGreeting;
